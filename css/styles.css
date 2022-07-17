@@ -73,6 +73,11 @@ p{
   width: 90%;
 }
 
+.btn:hover{
+  background: #F8F9FA;
+  color: black;
+}
+
 /* shopping Section */
 
 #shopping{
